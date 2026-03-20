@@ -28,12 +28,6 @@ Datasets/
     └── batches.meta
 ```
 
-> **Folder name matters.** `torchvision` looks for `cifar-10-batches-py/`
-> inside the root you pass. Either rename the folder or create a symlink:
-> ```bash
-> ln -s ../Datasets/CIFAR10 ../Datasets/cifar-10-batches-py
-> ```
-
 ---
 
 ## Setup
