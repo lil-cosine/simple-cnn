@@ -76,7 +76,7 @@ Epoch 001/30 | Train loss: 1.8643  acc: 31.3% | Val loss: 1.4344  acc: 48.2%  âœ
 ...
 Epoch 030/30 | Train loss: 0.1865  acc: 93.8% | Val loss: 0.3102  acc: 89.9%  
 ```
-```
+
 ---
 
 ## Outputs
