@@ -2,7 +2,7 @@
 
 A convolutional neural network trained on CIFAR-10 using PyTorch.
 Three double-conv blocks (64→128→256 channels) with BatchNorm, dropout
-regularisation, and a cosine-annealing LR schedule. Targets ~82% test accuracy
+regularisation, and a cosine-annealing LR schedule. Targets >80% test accuracy
 in 30 epochs.
 
 ---
